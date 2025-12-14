@@ -95,19 +95,19 @@ Start validating and structuring your Python data like a pro.
 
 ---
 
-### **6. Working with Nested Models**
-
--   Embedding models inside each other
--   Validating complex JSON structures
--   Best practices for hierarchical data
-
----
-
-### **7. Handling `ValidationError`**
+### **6. Handling `ValidationError`**
 
 -   Understanding error structures
 -   Returning readable error messages
 -   Debugging invalid payloads effectively
+
+---
+
+### **7. Working with Nested Models**
+
+-   Embedding models inside each other
+-   Validating complex JSON structures
+-   Best practices for hierarchical data
 
 ---
 
